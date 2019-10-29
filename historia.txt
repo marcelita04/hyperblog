@@ -2,4 +2,8 @@ Esta es la Historia de Git
 
 Su Historia
 
+Introduccion
+
 Control de Versiones
+
+Conclusiones
